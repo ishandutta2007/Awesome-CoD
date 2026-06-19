@@ -73,3 +73,17 @@ Because CoD maximizes token efficiency, it is primarily integrated into user-fac
 | **Token Cost** | Extremely Low | Extremely High | Low (~7.6% of CoT) |
 | **Latency** | Fast | Slow (High Time-to-First-Token) | Fast (76% decrease vs CoT) |
 | **Output Style** | Direct answer only | Verbose explanation | Crisp, structured shorthand |
+
+---
+
+## 📈 Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-CoD&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CoD&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CoD&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-CoD&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
