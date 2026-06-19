@@ -1,11 +1,29 @@
-# Awesome-CoD
+# Awesome-CoD 🚀
 ## Chain-of-Draft (CoD): Variants, Types, & Applications
 
-Chain-of-Draft (CoD) is an efficient prompt engineering paradigm designed to optimize intermediate thought generation in Large Language Models (LLMs). While traditional Chain-of-Thought (CoT) relies on verbose, long-winded reasoning steps, CoD mirrors human note-taking behavior by forcing the model to generate minimalistic, information-dense, and highly concise reasoning drafts. In production, this drops generation token counts by up to 92.4%, dramatically reducing API costs and latency without sacrificing reasoning accuracy.
+<!-- SEO Metadata -->
+<meta name="description" content="A curated list of Awesome Chain-of-Draft (CoD) prompting paradigms, variants, implementations, and applications for high-efficiency LLM reasoning." />
+<meta name="keywords" content="Chain-of-Draft, CoD, Chain-of-Thought, CoT, Prompt Engineering, LLM, Large Language Models, AI Efficiency, Cost Reduction" />
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Chain-of-Draft Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-CoD/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-CoD?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-CoD/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-CoD?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-CoD/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-CoD?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## 1. Prompt Constraints & Implementation Types
+💡 **Chain-of-Draft (CoD)** is an efficient prompt engineering paradigm designed to optimize intermediate thought generation in Large Language Models (LLMs). While traditional Chain-of-Thought (CoT) relies on verbose, long-winded reasoning steps, CoD mirrors human note-taking behavior by forcing the model to generate minimalistic, information-dense, and highly concise reasoning drafts. In production, this drops generation token counts by up to **92.4%**, dramatically reducing API costs and latency without sacrificing reasoning accuracy.
+
+---
+
+## 🛠️ 1. Prompt Constraints & Implementation Types
 
 These foundational variants outline how developers strictly limit the model's token output budget during the intermediate thinking phase.
 
@@ -17,7 +35,7 @@ These foundational variants outline how developers strictly limit the model's to
 
 ---
 
-## 2. Structural & Advanced Architecture Variants
+## 🧬 2. Structural & Advanced Architecture Variants
 
 These advanced approaches scale CoD past single-turn prompts into multi-turn system workflows or custom specialized domains.
 
@@ -29,7 +47,7 @@ These advanced approaches scale CoD past single-turn prompts into multi-turn sys
 
 ---
 
-## 3. Production & Downstream Applications
+## 🚀 3. Production & Downstream Applications
 
 Because CoD maximizes token efficiency, it is primarily integrated into user-facing production systems where speed and operational cost dictate success.
 
@@ -41,7 +59,7 @@ Because CoD maximizes token efficiency, it is primarily integrated into user-fac
 
 ---
 
-## 4. Architectural Prerequisites & Limitations
+## ⚠️ 4. Architectural Prerequisites & Limitations
 
 | Aspect | Description | Year | Paper |
 | :--- | :--- | :--- | :--- |
